@@ -1,5 +1,5 @@
 {
-  "version": 1,
-  "fileUrl": "https://github.com/s8133264-spec/ProstirUA/releases/download/v1.0.0/test_video.mp4",
-  "fileName": "test_video.mp4"
+  "version": 2,
+  "fileUrl": "https://github.com/s8133264-spec/ProstirUA/raw/main/ServerData/Android/remotegroup_assets_all_c8e33cd9ff1749cc4c87d49741845ba8.bundle",
+  "fileName": "remotegroup_bundle.bundle"
 }
